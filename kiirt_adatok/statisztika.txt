@@ -1,0 +1,4 @@
+A beolvasott fájlban összesen 30 versenyző szerepel.
+A legtöbb futamot nyert versenyző: 103
+A legtöbb futamot teljesített versenyző: ['Fernando Alonso', 'Renault', 32, 377]
+Az átlagos futamszám: 187.96666666666667
